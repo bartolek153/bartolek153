@@ -15,7 +15,7 @@
 
 
 ## :building_construction: Projects
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/bartolek153/bot-messenger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bartolek153&repo=bot-messenger" />
 </a>
 
