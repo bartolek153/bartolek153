@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/pastel-glyph/64/null/source-code--v2.png" alt=""/>
+  <img src="sourcecode2.png" alt=""/>
 </div>
 
 <!--
