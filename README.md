@@ -42,8 +42,11 @@
 
 ## :bar_chart: Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=bartolek153&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=bartolek153&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="Top Langs">
 
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartolek153&layout=compact&langs_count=5&hide_border=true&hide_title=true&theme=dracula" alt="Top Langs">
+</div>
 
 <!--
 **bartolek153/bartolek153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
