@@ -19,12 +19,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bartolek153&repo=bot-messenger" />
 </a>
 
-</br>
-
-<a href="https://github.com/bartolek153/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bartolek153&repo=dotfiles" />
-</a>
-
 </br></br>
 
 ## :hammer_and_wrench: Tech Stack
