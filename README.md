@@ -1,21 +1,18 @@
+<h2 align="left">
+ <abc>
+  Hi there! I'm Luiz, Back-End Dev
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+ </abc>
+</h2> 
+
 <div align="center">
-  <img src="sourcecode2.png" alt=""/>
+  <img src="https://i0.wp.com/innovatenetworkkwt.com/wp-content/uploads/2020/10/website-development.gif?fit=704%2C446&ssl=1" width="350">
 </div>
 
-<!--
-
-<div align="center">
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</div> https://platane.github.io/snk/ 
-
-</br></br>
-
--->
-
-
+</br>
 
 ## :building_construction: Projects
-<div >
+<div>
   <a href="https://github.com/bartolek153/bot-messenger">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bartolek153&repo=bot-messenger" />
     </br></br>
