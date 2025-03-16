@@ -14,7 +14,7 @@
 ## :building_construction: Projects
 <div>
   <a href="https://github.com/bartolek153/bot-messenger">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bartolek153&repo=bot-messenger" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bartolek153&repo=restgourmet" />
     </br></br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bartolek153&repo=pcinfos" />
   </a>
